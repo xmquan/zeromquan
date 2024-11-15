@@ -2,7 +2,7 @@
 
 ## About
 
-- 👋 Hi, I’m @zeromquan
+- 👋 Hi, I’m @xmquan
 - 👀 I’m interested in Machine Learning and Natural Language Processing.
 - 💻 I'm currently working for Microsoft.
 - 🌱 Work on some open-source projects in my spare time.
